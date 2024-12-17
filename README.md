@@ -2,18 +2,19 @@
 Steps to Run the Program on Your Machine:
 
 1. Ensure Python is installed and up to date. (I am using Python 3.12.4 on my machine.)
-2. Create and Activate Virtual Environment (To Create: python -m venv venv , To Activate: Windows - venv\Scripts\activate  macOS/Linux - source venv/bin/activate ) 
-3. Install Dependencies ( pip install selenium , pip install webdriver-manager )
-4. Install Google Chrome browser (latest version recommended)
-5. Download the Python Program
-6. Place the Program in a dedicated project directory
-7. Modify code in main() function parameters if needed:
+2. Create a Virtual Environment ( python -m venv venv )
+3. Activate Virtual Environment ( Windows Command --> venv\Scripts\activate || macOS/Linux Command --> source venv/bin/activate ) 
+4. Install Dependencies ( pip install selenium , pip install webdriver-manager )
+5. Install Google Chrome browser (latest version recommended)
+6. Download the Python Program
+7. Place the Program in a dedicated project directory
+8. Modify code in main() function parameters if needed:
 
 	- Adjust product_id_range for range of product IDs to scrape.
 	- Change output_file name
 	- Set headless mode (True/False) for browser visibility.
 
-8. Finally, Run the Program 
+9. Finally, Run the Program 
 
 
 

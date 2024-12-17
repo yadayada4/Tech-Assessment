@@ -14,7 +14,7 @@ Steps to Run the Program on Your Machine:
 	- Change output_file name
 	- Set headless mode (True/False) for browser visibility.
 
-9. Finally, Run the Program 
+9. Finally, Run the Program (Command: python3 scrapeProductsFinal.py )
 
 
 

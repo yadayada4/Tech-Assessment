@@ -1,5 +1,5 @@
 
-Steps to Run the Program on Your Machine:
+Steps to Run the scrapeProductsFinal.py Program on Your Machine:
 
 1. Ensure Python is installed and up to date. (I am using Python 3.12.4 on my machine.)
 2. Create a Virtual Environment (Command --> python -m venv venv )
@@ -16,7 +16,8 @@ Steps to Run the Program on Your Machine:
 
 9. Finally, Run the Program (Command: python3 scrapeProductsFinal.py )
 
-
+---------------------------------
+Note: For the visualizeProducts1.py program install these dependencies --> pip install pandas matplotlib seaborn
 
 ---------------------------------
 

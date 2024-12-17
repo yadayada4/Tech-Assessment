@@ -2,8 +2,8 @@
 Steps to Run the Program on Your Machine:
 
 1. Ensure Python is installed and up to date. (I am using Python 3.12.4 on my machine.)
-2. Create a Virtual Environment ( python -m venv venv )
-3. Activate Virtual Environment ( Windows Command --> venv\Scripts\activate || macOS/Linux Command --> source venv/bin/activate ) 
+2. Create a Virtual Environment (Command --> python -m venv venv )
+3. Activate Virtual Environment ( Windows Command --> venv\Scripts\activate ) ( macOS/Linux Command --> source venv/bin/activate ) 
 4. Install Dependencies ( pip install selenium , pip install webdriver-manager )
 5. Install Google Chrome browser (latest version recommended)
 6. Download the Python Program

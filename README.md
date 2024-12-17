@@ -1,5 +1,5 @@
 
-Steps to Run Program on Your Machine:
+Steps to Run the Program on Your Machine:
 
 1. Ensure Python is installed and up to date. (I am using Python 3.12.4 on my machine.)
 2. Create and Activate Virtual Environment (To Create: python -m venv venv , To Activate: Windows - venv\Scripts\activate  macOS/Linux - source venv/bin/activate ) 
@@ -20,7 +20,7 @@ Steps to Run Program on Your Machine:
 ---------------------------------
 
 
-Why I used the technologies I did
+Why I Used The Technologies I Did
 
 - I worked in VS Code because the interface is nice and helps me find issues with my code quickly. I chose Python to write the program because of its simplicity, versatility, large ecosystem of libraries, and strong community support. It seemed like the best all around choice for this specific task and I have previous experience with it as well. I chose Selenium because I had prior experience using it for web scraping, which made me comfortable with the tool. Additionally, it provided all the functionality I needed for this assessment and more. I also used ChatGPT to automate repetitive tasks, enhance my code, and to speed up things like generating the correct XPaths, CSS selectors, ect…
 
